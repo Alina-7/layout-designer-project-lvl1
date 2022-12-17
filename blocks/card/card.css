@@ -1,0 +1,13 @@
+.card {
+    background-color: #F5F4F0;
+    width: 350px;
+    min-height: 323px;
+    font-family: 'Neucha';
+    font-style: normal;
+    font-weight: 400;
+}
+
+.card:hover, .card:hover .card__title {
+    background-color: #FE8A02;
+    color: white;
+}

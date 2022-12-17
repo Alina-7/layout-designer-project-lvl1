@@ -1,0 +1,6 @@
+.navigation__cards {
+    display: grid;
+    grid-template-columns: repeat(3, 350px);
+    gap: 20px 30px;
+    margin: 100px 165px;
+}

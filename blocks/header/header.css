@@ -1,0 +1,7 @@
+.header {
+    background-image: url("../../images/ 1.png");
+    background-color: #F5F4F0;
+    background-size: contain;
+    z-index: -1;
+    padding-bottom: 140px;
+}

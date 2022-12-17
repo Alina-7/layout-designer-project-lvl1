@@ -1,0 +1,11 @@
+.footer__information-link {
+    text-decoration-line: underline;
+    color: #1085C5;
+    text-align: center;
+    margin-bottom: 111px;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;  
+}

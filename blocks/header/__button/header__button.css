@@ -1,0 +1,11 @@
+.header__button {
+    width: 148px;
+    height: 49px;
+    color: white;
+    border: none;
+    text-transform: uppercase;
+    margin-bottom: 100px;
+    position: absolute;
+    left: 735px;
+    top: 765px;
+}

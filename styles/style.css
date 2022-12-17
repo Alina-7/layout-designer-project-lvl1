@@ -1,0 +1,115 @@
+@import url("../vendor/normalize.css");
+@import url("../vendor/fonts/fonts.css");
+@import url("../blocks/header/header.css");
+@import url("../blocks/header/__title/header__title.css");
+@import url("../blocks/header/__img/header__img.css");
+@import url("../blocks/header/__texts/header__texts.css");
+@import url("../blocks/header/__text/header__text.css");
+@import url("../blocks/header/__button/header__button.css");
+@import url("../blocks/video-section/video-section.css");
+@import url("../blocks/video-section/__title/video-section__title.css");
+@import url("../blocks/video-section/__info/video-section__info.css");
+@import url("../blocks/video-section/__iframe/video-section__iframe.css");
+@import url("../blocks/navigation/navigation.css");
+@import url("../blocks/navigation/__cards/navigation__cards.css");
+@import url("../blocks/navigation/__main/navigation__main.css");
+@import url("../blocks/navigation/__title/navigation__title.css");
+@import url("../blocks/card/card.css");
+@import url("../blocks/card/__number/card__number.css");
+@import url("../blocks/card/__title/card__title.css");
+@import url("../blocks/card/__info/card__info.css");
+@import url("../blocks/section/section.css");
+@import url("../blocks/light-section/light-section.css");
+@import url("../blocks/light-section/__right/light-section__right.css");
+@import url("../blocks/light-section/__image/light-section__image.css");
+@import url("../blocks/light-section/__how-work-title/light-section__how-work-title.css");
+@import url("../blocks/dark-section/dark-section.css");
+@import url("../blocks/dark-section/__distortion/dark-section__distortion.css");
+@import url("../blocks/dark-section/__title/dark-section__title.css");
+@import url("../blocks/dark-section/__info/dark-section__info.css");
+@import url("../blocks/dark-section/__how-work-title/dark-section__how-work-title.css");
+@import url("../blocks/dark-section/__how-work-text/dark-section__how-work-text.css");
+@import url("../blocks/data/data.css");
+@import url("../blocks/data/__title/data__title.css");
+@import url("../blocks/form/form.css");
+@import url("../blocks/form/__text/form__text.css");
+@import url("../blocks/form/__info/form__info.css");
+@import url("../blocks/form/__button/form__button.css");
+@import url("../blocks/form/__email/form__email.css");
+@import url("../blocks/footer/__information-author/footer__information-author.css");
+@import url("../blocks/footer/__information-link/footer__information-link.css");
+@import url("../blocks/footer/__information-info/footer__information-info.css");
+@import url("../blocks/footer/__information-info-underline/footer__information-info-underline.css");
+
+
+
+.link, .link:active, .link:hover {
+    text-decoration: none;
+    color: inherit;
+}
+
+.button {
+    background-color: #FE8A02;
+    cursor: pointer;
+}
+
+.button:hover {
+    background-color: #EA7600;
+    opacity: .8;
+}
+
+.title-color {
+    color: #FE8A02;
+}
+
+.part {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 100px;
+}
+
+.distortion {
+    font-size: 24px;
+    line-height: 29px;
+    color: #908D8B;
+    margin: 0;
+}
+
+.title {
+    font-size: 60px;
+    line-height: 72px;
+    margin: 0;
+}
+
+.info {
+    font-size: 34px;
+    line-height: 41px;
+    width: 502px;
+    margin: 30px 0 0;
+}
+
+.how-work {
+    max-width: 1110px;
+    margin: 0 auto;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 17px;
+}
+
+.how-work-title {
+    text-transform: uppercase;
+    font-weight: 700;
+    padding: 5px 10px;
+}
+
+.how-work-text+.how-work-text {
+    max-width: 540px;
+    margin-left: 30px;
+}
+
+.how-work-info {
+    display: flex;
+    flex-direction: row;
+}

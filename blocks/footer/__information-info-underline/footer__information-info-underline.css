@@ -1,0 +1,9 @@
+.footer__information-info-underline {
+    text-decoration-line: underline;
+    color: #1085C5;
+    font-family: 'Open Sans';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 14px;
+    line-height: 160%;  
+}

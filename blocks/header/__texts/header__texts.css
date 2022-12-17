@@ -1,0 +1,10 @@
+.header__texts {
+    margin-top: 185px;
+    display: grid;
+    grid-template-columns: repeat(2, 540px);
+    gap: 30px;
+    font-family: 'Open Sans';
+    text-align: left;
+    margin-left: 165px;
+    color: #2A2626;
+}
