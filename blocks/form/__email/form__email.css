@@ -1,4 +1,6 @@
 .form__email {
     width: 423px;
     min-height: 50px;
+    padding: 0;
+    border: 0;
 }
