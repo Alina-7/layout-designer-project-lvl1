@@ -1,0 +1,23 @@
+{
+  "name": "layout-designer-project-lvl1",
+  "version": "1.0.0",
+  "description": "[![Actions Status](https://github.com/Alina-7/layout-designer-project-lvl1/workflows/hexlet-check/badge.svg)](https://github.com/Alina-7/layout-designer-project-lvl1/actions)",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Alina-7/layout-designer-project-lvl1.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Alina-7/layout-designer-project-lvl1/issues"
+  },
+  "homepage": "https://github.com/Alina-7/layout-designer-project-lvl1#readme",
+  "devDependencies": {
+    "@actions/checkout": "^3.0.0"
+  }
+}
